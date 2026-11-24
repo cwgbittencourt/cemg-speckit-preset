@@ -1,0 +1,36 @@
+LICENÇA DE USO SEM REDISTRIBUIÇÃO — CEMG SPEC KIT PRESET
+
+Copyright (c) 2026 Carlos Wagner G. Bittencourt.
+Todos os direitos reservados.
+
+1. CONCESSÃO DE USO
+É concedida permissão, gratuitamente, a qualquer pessoa ou organização que
+obtenha uma cópia deste software, templates, políticas, scripts e arquivos de
+documentação associados (o "Software") diretamente do autor, para utilizar o
+Software sem restrições em seus próprios projetos e ambientes de desenvolvimento
+(pessoais, acadêmicos ou comerciais), incluindo o direito de instalar, executar
+e adaptar os artefatos gerados dentro de seus próprios repositórios de projeto.
+
+2. RESTRIÇÃO DE REDISTRIBUIÇÃO
+É expressamente PROIBIDA a distribuição, redistribuição, sublicenciamento,
+venda, publicação pública, espelhamento ou disponibilização deste Software
+(integral ou parcialmente, original ou modificado) a terceiros, seja como
+pacote, preset, template ou biblioteca, sem a autorização prévia, expressa e
+por escrito do autor (Carlos Wagner G. Bittencourt).
+
+3. ATRIBUIÇÃO E COMPONENTES DE TERCEIROS
+Os avisos de direitos autorais acima e esta permissão devem ser mantidos em
+todas as cópias autorizadas do Software. Os arquivos em `commands/speckit.*.md`
+contêm partes derivadas do projeto GitHub Spec Kit (Copyright (c) GitHub, Inc.),
+cujo conteúdo original permanece regido pela licença MIT incluída no arquivo
+`LICENSE-SPEC-KIT.txt`.
+
+4. ISENÇÃO DE GARANTIAS E LIMITAÇÃO DE RESPONSABILIDADE ("COMO ESTÁ" / "AS IS")
+O SOFTWARE É FORNECIDO "COMO ESTÁ" ("AS IS"), SEM GARANTIA DE QUALQUER TIPO,
+EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO ÀS GARANTIAS DE
+COMERCIALIZAÇÃO, ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA E NÃO VIOLAÇÃO. EM
+NENHUMA CIRCUNSTÂNCIA O AUTOR (CARLOS WAGNER G. BITTENCOURT) OU OS DETENTORES
+DOS DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER REIVINDICAÇÃO, DANO OU
+OUTRA RESPONSABILIDADE, SEJA EM AÇÃO DE CONTRATO, ATO ILÍCITO OU DE OUTRA
+FORMA, DECORRENTE DE, FORA DE OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS
+OPERAÇÕES NO SOFTWARE.

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "stage": "dev-impossibility",
+  "revision": "REPLACE_WITH_ACTUAL_REVISION",
+  "state": "DRAFT",
+  "story": "US1",
+  "scenarios": [
+    "US1-S01"
+  ],
+  "reason": "",
+  "attempts": [],
+  "unverified": [],
+  "risk": "",
+  "decision": "WAIT",
+  "scope": "",
+  "next_action": "",
+  "next_owner": "",
+  "human_confirmation": {
+    "actor": "",
+    "timestamp": "",
+    "source": ""
+  },
+  "evidence": []
+}

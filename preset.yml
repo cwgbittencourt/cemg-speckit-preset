@@ -1,0 +1,114 @@
+schema_version: '1.0'
+preset:
+  id: cemg-speckit-preset
+  name: CEMG Spec Kit Preset
+  version: 1.0.0
+  description: Padrão CEMG de testes pela IA, revisão com evidências, PRs verificáveis
+    e aceite funcional pelo DEV.
+  author: Carlos Wagner G. Bittencourt
+  license: Proprietary (Free Use, No Redistribution - see LICENSE.txt)
+requires:
+  speckit_version: ">=1.1.3"
+provides:
+  templates:
+  - type: template
+    name: acceptance-template
+    file: templates/acceptance-template.md
+    strategy: replace
+  - type: template
+    name: dev-validation-template
+    file: templates/dev-validation-template.md
+    strategy: replace
+  - type: template
+    name: uat-validation-template
+    file: templates/uat-validation-template.md
+    strategy: replace
+  - type: template
+    name: plan-template
+    file: templates/plan-template.md
+    strategy: replace
+  - type: template
+    name: pr-template
+    file: templates/pr-template.md
+    strategy: replace
+  - type: template
+    name: review-evidence-template
+    file: templates/review-evidence-template.md
+    strategy: replace
+  - type: template
+    name: spec-template
+    file: templates/spec-template.md
+    strategy: replace
+  - type: template
+    name: tasks-template
+    file: templates/tasks-template.md
+    strategy: replace
+  - type: template
+    name: validation-evidence-template
+    file: templates/validation-evidence-template.md
+    strategy: replace
+  - type: template
+    name: constitution-template
+    file: templates/constitution-addendum.md
+    strategy: append
+  - type: command
+    name: speckit.constitution
+    file: commands/speckit.constitution.md
+    strategy: replace
+  - type: command
+    name: speckit.specify
+    file: commands/speckit.specify.md
+    strategy: replace
+  - type: command
+    name: speckit.clarify
+    file: commands/speckit.clarify.md
+    strategy: replace
+  - type: command
+    name: speckit.plan
+    file: commands/speckit.plan.md
+    strategy: replace
+  - type: command
+    name: speckit.tasks
+    file: commands/speckit.tasks.md
+    strategy: replace
+  - type: command
+    name: speckit.analyze
+    file: commands/speckit.analyze.md
+    strategy: replace
+  - type: command
+    name: speckit.checklist
+    file: commands/speckit.checklist.md
+    strategy: replace
+  - type: command
+    name: speckit.implement
+    file: commands/speckit.implement.md
+    strategy: replace
+  - type: command
+    name: speckit.converge
+    file: commands/speckit.converge.md
+    strategy: replace
+  - type: command
+    name: speckit.taskstoissues
+    file: commands/speckit.taskstoissues.md
+    strategy: replace
+  - type: template
+    name: stage-status-template
+    file: templates/stage-status-template.json
+    strategy: replace
+  - type: template
+    name: dev-impossibility-template
+    file: templates/dev-impossibility-template.md
+    strategy: replace
+  - type: template
+    name: dev-impossibility-template-json
+    file: templates/dev-impossibility-template.json
+    strategy: replace
+  - type: template
+    name: product-execution-template
+    file: templates/product-execution-template.json
+    strategy: replace
+tags:
+- quality
+- testing
+- review
+- portuguese

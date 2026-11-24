@@ -1,0 +1,67 @@
+{
+  "preset": "cemg-speckit-preset",
+  "version": "1.0.0",
+  "specify_version": "1.1.3",
+  "results": [
+    {
+      "integration": "codex",
+      "manifest_and_paths": "PASS",
+      "resolved_contributions": 24,
+      "registered_skills": 10,
+      "update": "PASS",
+      "remove_and_restore_core": "PASS"
+    },
+    {
+      "integration": "copilot",
+      "manifest_and_paths": "PASS",
+      "resolved_contributions": 24,
+      "registered_skills": 10,
+      "update": "PASS",
+      "remove_and_restore_core": "PASS"
+    },
+    {
+      "integration": "agy",
+      "manifest_and_paths": "PASS",
+      "resolved_contributions": 24,
+      "registered_skills": 10,
+      "update": "PASS",
+      "remove_and_restore_core": "PASS"
+    },
+    {
+      "integration": "claude",
+      "manifest_and_paths": "PASS",
+      "resolved_contributions": 24,
+      "registered_skills": 10,
+      "update": "PASS",
+      "remove_and_restore_core": "PASS"
+    },
+    {
+      "integration": "kiro-cli",
+      "manifest_and_paths": "PASS",
+      "resolved_contributions": 24,
+      "registered_commands": 10,
+      "update": "PASS",
+      "remove_and_restore_core": "PASS"
+    }
+  ],
+  "limits": [
+    "Não executado ciclo completo de uma história com IA em projeto real.",
+    "Não testadas integrações diferentes de Codex, Copilot, Antigravity (agy), Claude Code e Kiro CLI.",
+    "Instalação a partir de URL HTTPS não testada; pacote não publicado."
+  ],
+  "gate_tests": {
+    "result": "PASS",
+    "tests": 20,
+    "suite": "tests/test_gate.py",
+    "new_cases": [
+      "unit execution without product demonstration rejected",
+      "breakpoint without result rejected",
+      "unconfirmed impossibility rejected",
+      "missing DEV decision rejected",
+      "WAIT/REJECT/ACCEPT_WITH_RESERVATIONS recorded without READY",
+      "revision and evidence integrity for impossibility",
+      "production requires end user execution and approval"
+    ]
+  },
+  "constitution_explicit_rule": "PASS: composition resolved and effective constitution command inspected in isolated fixtures across Codex, Copilot, Antigravity, Claude Code and Kiro CLI"
+}

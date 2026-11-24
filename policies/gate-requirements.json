@@ -1,0 +1,53 @@
+{
+  "spec": [
+    "criteria_observable",
+    "scenarios_defined",
+    "scope_defined",
+    "dependencies_identified",
+    "material_decisions_resolved"
+  ],
+  "plan": [
+    "spec_ready",
+    "coverage_semantic",
+    "procedures_concrete",
+    "environment_planned",
+    "data_and_access_planned",
+    "pr_slices_testable",
+    "real_execution_planned"
+  ],
+  "tasks": [
+    "plan_ready",
+    "traceability_complete",
+    "task_contracts_concrete",
+    "dependencies_acyclic",
+    "analysis_no_blockers",
+    "pr_mapping_complete",
+    "execution_and_reproduction_tasks"
+  ],
+  "pr": [
+    "applicable_tests_passed",
+    "review_complete",
+    "blocking_findings_resolved",
+    "safe_intermediate_state",
+    "dependencies_satisfied",
+    "human_pr_approved",
+    "ai_product_execution_observed"
+  ],
+  "acceptance": [
+    "integrated_tests_passed",
+    "review_current",
+    "dev_script_checked",
+    "dev_executed",
+    "human_acceptance_explicit",
+    "ai_product_execution_observed",
+    "dev_product_execution_observed"
+  ],
+  "production": [
+    "dev_acceptance_approved",
+    "uat_plan_available",
+    "end_user_executed",
+    "end_user_product_execution_observed",
+    "human_production_approved",
+    "po_signoff_approved"
+  ]
+}

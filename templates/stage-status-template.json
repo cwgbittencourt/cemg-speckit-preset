@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "stage": "spec",
+  "revision": "REPLACE_WITH_TESTED_COMMIT",
+  "state": "BLOCKED",
+  "checks": {
+    "criteria_observable": false,
+    "scenarios_defined": false,
+    "scope_defined": false,
+    "dependencies_identified": false,
+    "material_decisions_resolved": false
+  },
+  "blockers": [
+    "Preencher decisões pendentes"
+  ],
+  "evidence": [],
+  "human_decisions": []
+}

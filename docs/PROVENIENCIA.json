@@ -1,0 +1,47 @@
+{
+  "specify_version": "1.1.3",
+  "base_package": "speckit-qualidade-v2 revisado",
+  "upstream": "https://github.com/github/spec-kit",
+  "commands": [
+    {
+      "file": "commands/constitution.md",
+      "sha256": "a915ba6ae5fdbd499c143204eab3888b95a0ff0656e2c16b40282375acb5902c"
+    },
+    {
+      "file": "commands/specify.md",
+      "sha256": "7d5a88e6afa504f1d16503df6bf8664f30e3df812b83f9a456a2eaccaeb638ee"
+    },
+    {
+      "file": "commands/clarify.md",
+      "sha256": "5260d798c5671deb9ac7e59d6ffdb69b30c26fb28878d3cc25e30fb71cacc734"
+    },
+    {
+      "file": "commands/plan.md",
+      "sha256": "206a0386d20b3eed4c087a4d9de247a3e7b2b59348bf3c801fc74f63ca2726a5"
+    },
+    {
+      "file": "commands/tasks.md",
+      "sha256": "2f9176c6e7c23d2a83d2bd018ffa1e67aee977389a57f2a3fe35fe987b425944"
+    },
+    {
+      "file": "commands/analyze.md",
+      "sha256": "ffe0640ebe778795737937f2d4ec6f0149d7d55b72692e25369a668f985d1dfe"
+    },
+    {
+      "file": "commands/checklist.md",
+      "sha256": "1192784f378fb977b408b72ca1bfb8fc55e129519f3f44bc5d0a7e152c480654"
+    },
+    {
+      "file": "commands/implement.md",
+      "sha256": "feab334232940cfd4ecbcdae41cf63ccb7d581a60380230837385f296f7b49bd"
+    },
+    {
+      "file": "commands/converge.md",
+      "sha256": "4fb017b2869ad02d58aafe272a90077187ce4231f08effee6f340b0f3a07fc16"
+    },
+    {
+      "file": "commands/taskstoissues.md",
+      "sha256": "eb6de5058aab2e6c88b9934ec58b2d7428b3bbe1728aa799c77b0c725971d02e"
+    }
+  ]
+}
