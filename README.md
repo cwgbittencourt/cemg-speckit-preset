@@ -14,6 +14,7 @@
   <a href="docs/ADOCAO.md">Guia de adoção</a> ·
   <a href="docs/CONTROLES.md">Controles</a> ·
   <a href="docs/VALIDACAO.md">Validação técnica</a> ·
+  <a href="#autor-e-contato">Contato</a> ·
   <a href="LICENSE.txt">Licença</a>
 </p>
 
@@ -281,8 +282,17 @@ do DEV, ele pode confirmar a impossibilidade e decidir explicitamente entre
 e verificação estrutural específica sem converter impossibilidade em teste aprovado.
 Ver `policies/EXECUCAO-REPRODUZIVEL.md` e `docs/EXECUCAO.md`.
 
-## Autor e Licenciamento
+## Autor e contato
 
-- **Autor**: Carlos Wagner G. Bittencourt
+<p align="center">
+  <img src="docs/assets/autor.png" alt="Autoria e desenvolvimento por Carlos Wagner G. Bittencourt" width="100%">
+</p>
+
+<p align="center">
+  <a href="mailto:wagner@cemg-tecinfo.com"><img src="docs/assets/contato-email.png" alt="Enviar e-mail para wagner@cemg-tecinfo.com" width="48%"></a>
+  <a href="https://br.linkedin.com/in/carlos-wagner-g-bittencourt-847902114"><img src="docs/assets/contato-linkedin.png" alt="Perfil de Carlos Wagner G. Bittencourt no LinkedIn" width="48%"></a>
+</p>
+
+## Licenciamento
 - **Licença do preset (`LICENSE.txt`)**: Uso livre em projetos próprios, **proibida a distribuição ou redistribuição por terceiros** sem autorização expressa do autor. O software é disponibilizado **"COMO ESTÁ" ("AS IS")**, sem garantias de qualquer tipo, não se responsabilizando o autor por quaisquer danos decorrentes do seu uso.
 - **Componentes de terceiros (`LICENSE-SPEC-KIT.txt` e `NOTICE.md`)**: Os snapshots base em `commands/speckit.*.md` derivam do GitHub Spec Kit 1.1.3 (Copyright (c) GitHub, Inc., sob licença MIT).

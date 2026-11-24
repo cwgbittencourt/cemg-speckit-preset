@@ -68,6 +68,11 @@
       "sha256": "8ccdd1c65b488e2adbcde5fb7a7c48d620befd06bc45d3d46f85faa93998d70e"
     },
     {
+      "path": "docs/assets/autor.png",
+      "bytes": 27334,
+      "sha256": "3a4aea6d5f5c83478f6c2835dfe4d0bc2866788a5126ffe9720269b820ef650d"
+    },
+    {
       "path": "docs/assets/badge-preset.png",
       "bytes": 1881,
       "sha256": "964bccbab45aeabed974604e214eed0faf79e9092388fae5b55a34c4eed4166d"
@@ -86,6 +91,16 @@
       "path": "docs/assets/cemg-speckit-preset-banner.png",
       "bytes": 48053,
       "sha256": "b0a4676b5194eb4645f82c073983f93cc3a341ff662c84ec8ee19569a0d76736"
+    },
+    {
+      "path": "docs/assets/contato-email.png",
+      "bytes": 13136,
+      "sha256": "cc6912d42ad5a9b5e80f2bbef335ea62873bc679ce05914aba0836d910192085"
+    },
+    {
+      "path": "docs/assets/contato-linkedin.png",
+      "bytes": 13279,
+      "sha256": "dfa13762a139173cf5f9035424d9cfd428912ea3bd3b15427bbe8410cdc44473"
     },
     {
       "path": "docs/CHANGELOG.md",
@@ -194,8 +209,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 17359,
-      "sha256": "07f49566b302be36abc6fd76989358a1275068f2d73ff4216b75db0d74902894"
+      "bytes": 17891,
+      "sha256": "5a6b0605a2c40ca382d881476452f01af9089f55533773e5cf44fd92ad410b6d"
     },
     {
       "path": "templates/acceptance-template.md",
